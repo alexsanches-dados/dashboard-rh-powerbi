@@ -2,7 +2,7 @@
 Dashboard de RH (Power BI) com base Excel fictícia e print do painel: Ativos, Contratações, Demissões, Turnover (12M), Absenteísmo e Média Salarial.
 # 📊 Dashboard de RH — Visão Geral (Power BI)
 
-![Dashboard de RH](img/cover.png)
+![Dashboard de RH](img/cover.jpg)
 
 Este repositório contém a base fictícia em Excel e o print do meu **Dashboard de RH** desenvolvido no Power BI.
 
